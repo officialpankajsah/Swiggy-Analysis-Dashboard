@@ -1,12 +1,10 @@
 
- 
-Title of the Project
 E-Commerce Sales and Customer Insights Analysis: A Detailed Study on Swiggy
 ________________________________________
 Abstract
 In the fast-evolving digital economy, online food delivery platforms like Swiggy have transformed how consumers access meals, offering convenience and variety. This study analyzes Swiggy’s dataset to uncover key performance metrics, including delivery times, customer ratings, cuisine preferences, and geographic trends. By applying SQL queries and advanced data analysis, the research provides actionable insights to enhance customer satisfaction, operational efficiency, and revenue growth.
 The analysis identifies significant trends: the average delivery time is 54 minutes, with Indian and Chinese cuisines dominating customer preferences. Customer ratings demonstrate a strong correlation with order volumes, emphasizing the importance of service quality in driving repeat business. Geographic analysis reveals urban hotspots like Delhi and Kolkata as high-demand areas, while suburban regions offer growth potential.
-Recommendations include optimizing delivery logistics through AI-driven routing, strengthening restaurant partnerships by promoting high-performing outlets, and implementing loyalty programs to boost customer retention. The study also suggests leveraging popular cuisines and localized marketing strategies to tap into diverse customer segments.
+Recommendations include optimizing delivery logistics through AI-driven routing, strengthening restaurant partnerships by promoting high-performing outlets and implementing loyalty programs to boost customer retention. The study also suggests leveraging popular cuisines and localized marketing strategies to tap into diverse customer segments.
 These findings provide Swiggy with a data-driven roadmap for addressing operational challenges and maximizing growth opportunities. By focusing on efficiency, customer satisfaction, and regional demand, Swiggy can strengthen its market position and continue thriving in the competitive food delivery landscape. This research underscores the critical role of data analytics in shaping strategic decisions in e-commerce industries.
 ________________________________________
 Introduction of the Study
@@ -35,7 +33,7 @@ Relevance to Swiggy
 This study builds on existing literature by applying these principles to Swiggy's dataset, offering customized insights into its operational strengths and areas for improvement. By addressing factors such as delivery efficiency, customer satisfaction, and regional demand, the study aims to provide a comprehensive roadmap for optimizing Swiggy's services and strengthening its competitive position in the food delivery market.
 ________________________________________
 Research Methodology
-This study adopts a systematic approach to analyze Swiggy's dataset, emphasizing data collection, preparation, and the use of advanced analytical tools to extract actionable insights.
+This study adopts a systematic approach to analyzing Swiggy's dataset, emphasizing data collection, preparation, and the use of advanced analytical tools to extract actionable insights.
 Data Collection and Preparation
 The dataset includes comprehensive information on restaurants, cuisines, delivery times, customer ratings, and geographic locations. To ensure the accuracy and reliability of the analysis, a meticulous data preparation process was carried out. This involved:
 •	Handling Missing Values: Identified and addressed missing data points to maintain the dataset’s integrity.
@@ -87,6 +85,13 @@ Potential Challenges
 •	Outlier Delivery Times: Prolonged delivery times could impact customer satisfaction.
 •	Underperforming Restaurants: Restaurants with low ratings may deter customers.
 •	Regional Preferences: Catering to diverse tastes in smaller cities could require tailored approaches.
+
+![Dashboard](https://github.com/user-attachments/assets/9f49f95d-21f5-4817-907a-6b7e72a136ef)
+![Ahemdabad](https://github.com/user-attachments/assets/a4c24496-42e0-4ebc-92b4-92531cd5296b)
+![Banglore](https://github.com/user-attachments/assets/acfa95c3-fcb7-4bed-ade8-dba6f61d8557)
+![Delhi](https://github.com/user-attachments/assets/d3b42f80-b869-44d9-8925-9a7cd2615ea6)
+![Chennai](https://github.com/user-attachments/assets/a0447770-d9dd-49f2-a7e6-c711b61990d0)
+
 ________________________________________
 Recommendations
 1. Optimize Delivery Operations
@@ -105,21 +110,9 @@ Recommendations
 •	Launch region-specific campaigns in urban hotspots like Delhi and Kolkata.
 •	Highlight highly rated restaurants and special offers during peak seasons.
  
- 
- 
- 
- 
-Project Link: Click to view the project and data set.
 ________________________________________
 Conclusion
 This study highlights the critical role of data-driven decision-making in the rapidly evolving e-commerce sector, with a specific focus on Swiggy’s operations. By analyzing Swiggy’s dataset, key insights into delivery efficiency, customer satisfaction, cuisine preferences, and geographic trends were uncovered, providing a foundation for actionable strategies to enhance performance and competitiveness.
 The findings emphasize the importance of optimizing delivery times to improve customer satisfaction and retention. The average delivery time of 54 minutes, while efficient in most cases, indicates potential areas for improvement, particularly in urban hotspots and for long-distance orders. Similarly, the analysis of customer ratings reveals the significant influence of high ratings on order volumes, underscoring the need to prioritize quality and service consistency.
 Insights into cuisine preferences demonstrate the continued dominance of Indian and Chinese dishes, while regional trends highlight the importance of tailoring strategies to high-demand urban areas like Delhi and Kolkata. The study also identifies growth opportunities in less saturated suburban markets, which can be tapped through localized campaigns and enhanced restaurant partnerships.
 As the online food delivery market continues to expand, Swiggy’s ability to adapt to customer preferences, improve operational efficiency, and leverage data for strategic planning will be crucial to sustaining long-term growth. This analysis provides a comprehensive roadmap to address current challenges and capitalize on future opportunities, ensuring that Swiggy remains a leader in the highly competitive food delivery industry.
-________________________________________
-Bibliography & References
-1.	Smith, R., & Lee, H. (2019). Customer Behavior in Food Delivery Services. Journal of Marketing Analytics.
-2.	Kumar, S. (2020). Optimizing Logistics in E-commerce: The Role of AI. Logistics and Supply Chain Review.
-3.	Industry Reports: Food Delivery Market Growth Projections, 2023.
-4.	Swiggy Dataset from Kaggle.
-________________________________________
